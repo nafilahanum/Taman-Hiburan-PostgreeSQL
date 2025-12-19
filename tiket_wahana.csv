@@ -1,0 +1,5 @@
+"nama_pengunjung","tinggi_pengunjung","id_jenis_tiket","id_pembelian_tiket","tanggal_berlaku","id_wahana","nama_wahana","qty_tiket","price_per_tiket","total_per_wahana","total_semua_wahana"
+"Andi Santoso","170.5",1,1,"2024-12-15",1,"Roller Coaster",2,100000,200000,"850000"
+"Budi Prasetyo","165.2",2,2,"2024-12-15",2,"Ferris Wheel",1,200000,200000,"850000"
+"Citra Wulandari","160.8",3,3,"2024-12-15",3,"Water Slide",3,150000,450000,"850000"
+"Dian Fajar","172.3",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"850000"
