@@ -1,0 +1,5 @@
+"nama_pengunjung","id_pembelian","id_restoran","id_pengunjung","waktu_pembelian","jumlah_tiket","id_menu","nama_menu","jumlah_item_menu","harga_per_item","total","jumlah_total_semua"
+"Andi Santoso",1,1,1,"2024-12-15 12:30:00",2,1,"Pizza Margherita",2,40000,80000,"275000"
+"Budi Prasetyo",2,2,2,"2024-12-15 13:00:00",1,2,"Spaghetti Carbonara",1,60000,60000,"275000"
+"Citra Wulandari",3,3,3,"2024-12-15 14:00:00",3,NULL,NULL,3,45000,135000,"275000"
+"Dian Fajar",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"275000"
