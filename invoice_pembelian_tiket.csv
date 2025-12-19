@@ -1,0 +1,5 @@
+"nama_pengunjung","email","nomor_telepon","id_pembelian_tiket","id_jenis_tiket","tanggal_berlaku","tanggal_beli","id_wahana","nama_wahana","qty_tiket","price_per_tiket","total","total_semua"
+"Andi Santoso","andi@example.com","08123456789",1,1,"2024-12-15","2024-12-14 10:00:00",1,"Roller Coaster",2,100000,200000,"850000"
+"Budi Prasetyo","budi@example.com","08987654321",2,2,"2024-12-15","2024-12-14 11:00:00",2,"Ferris Wheel",1,200000,200000,"850000"
+"Citra Wulandari","citra@example.com","08567891234",3,3,"2024-12-15","2024-12-14 12:00:00",3,"Water Slide",3,150000,450000,"850000"
+"Dian Fajar","dian@example.com","08765432109",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"850000"
