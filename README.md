@@ -1,3 +1,5 @@
+Link Penjelasan : https://youtu.be/quoDeXLuQ9Q
+
 Aplikasi ini berisi mengenai pemesanan tiket, reservasi tempat untuk acara khusus, dan memesan makanan restoran yang ada di dalam wahana hiburan Surabaya Omnnival
 
 Kebutuhan Bisnis yang dibutuhkan berupa pengaturan data Taman Hiburan yang rapi. Data yang diatur meliputi semuanya baik fasilitas yang ada maupun pengaturan
